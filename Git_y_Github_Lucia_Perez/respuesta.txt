@@ -1,0 +1,3 @@
+Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+GitHub, Inc. Npm, Inc. GitHub Inc. El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+Ejecuta git remote -v . Esto hace algo de magia usando git pull y git push para garantizar que el contenido de tu nuevo repositorio de Github y la carpeta en tu sistema local sean los mismos. Finalmente, ejecuta git push origin master para empujar tus archivos a Github.
