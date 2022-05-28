@@ -1,5 +1,0 @@
-1- Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
-
-2- Pertenece a Microsoft, fue adquirido en 7.5 billones de dolares en el 2018.
-
-3- Si, a) trabajar desde la aplicacion de escritorio que proporciona Github, b) trabajar con GitKraken una interface visual que permite ver las diferentes ramas y bifurcaciones.
