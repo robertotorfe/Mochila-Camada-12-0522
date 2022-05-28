@@ -1,0 +1,7 @@
+Git fue inventando por Linus Torvalds, es un software de control de versiones que registra los cambios realizados 
+sobre un archivo o conjunto de archivos a lo largo del tiempo 
+para que de esta forma podamos recuperar y tener acceso a versiones específicas cuando queramos de nuestros proyectos.
+
+El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+
+Con la aplicación de escritorio de github desktop
