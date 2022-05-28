@@ -1,0 +1,3 @@
+El sistema de control de Git fue creado por Linus Torvalds, es para controlar las versiones de codigo de forma distribuida.
+Github pertenece a Microsoft.
+Si, con Bitbucket.
