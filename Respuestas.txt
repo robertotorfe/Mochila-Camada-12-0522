@@ -1,0 +1,4 @@
+a) Inventado por Linus Torvalds, buscando eficiencia, confiabilidad y compatibilidad de versiones de archivos
+b) Actualmente pertenece a Microsoft
+c) Si, la interfaz gráfica de GitHub
+
