@@ -1,0 +1,14 @@
+Crear: clonar un repositorio existente $ git clone ssh://usuario@domain.com/repo.git
+Crear un nuevo repositorio local $ git init
+Add un archivo $ git add nombre_del_archivo.extención
+Agregar un archivo arepositorio local $ git commit "nuevo commit"
+Ver cuál es la situación $ git status
+Describir los commit $ git log
+Subir archivos del repositorio local al remoto $ git push origin main
+Bajar archivos de repositorio remoto a reposoitorio local $ git clone https://github.com/usuario/repositorio.git
+Crear una rama $ git branch
+Borrar una rama $ git branch -d
+Moverse de una rama a otra $ git checkout nombre de la rama
+Abrir un archivo y escribir nano
+Actualizar ramas remotas y generar copia en repositorio local $ git fech
+
