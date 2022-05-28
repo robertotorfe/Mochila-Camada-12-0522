@@ -1,0 +1,16 @@
+¿Quién inventó el sistema de control de versión Git y por qué?
+Git fue inventado por Linus Torvalds, porque quería mejorar la eficiencia, confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número
+ de archivos de código fuente.
+
+
+
+¿A quién pertenece actualmente Github y por qué?
+Github pertenece a Microsoft GitHub Inc. Microsoft. Una de las razones es que Microsoft tiene que competir con el líder indiscutible a día de hoy, la todopoderosa Amazon con AWS. Qué mejor 
+forma de hacerlo que estar en contacto directo con los desarrolladores que trabajan en esos servicios, ver sus necesidades y ofrecerles herramientas que faciliten su integración con Azure.
+
+
+
+
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+Ejecuta git remote -v . Esto hace algo de magia usando git pull y git push para garantizar que el contenido de tu nuevo repositorio de Github y la carpeta en tu sistema local sean los mis
+mos. Finalmente, ejecuta git push origin master para empujar tus archivos a Github
