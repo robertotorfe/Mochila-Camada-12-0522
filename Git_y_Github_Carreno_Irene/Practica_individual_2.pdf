@@ -1,0 +1,20 @@
+Comandos mas utilizados hasta el momento
+
+crtl+l o clear (Limpiar la consola)
+mkdir nombre_de_carpeta (Crear una carpeta)
+cd (Entrar en la carpeta)
+cd .. (Salir de la carpeta)
+ls (Ver lo que hay dentro de la carpeta)
+
+git init (Crear un nuevo repositorio local)
+git status (muestra el estado de los archivos en su repositorio)
+git add nombre_archivo_directorio (Agrega un archivo específico)
+git add .  (Agrega todos los archivos)
+git commit  -m "mensaje del commit" (Comitear archivos)
+git log (muestra el historial)
+git pull (actualiza bajando los archivos contra la branch actual)
+git clone + URL (Clona un repositorio)
+git branch + nombre de la rama (crea una nueva rama)
+git checkout + nombre de la rama  (cambia a una rama existente)
+git push (actualiza subiendo los archivos contra la branch actual)
+
