@@ -1,0 +1,13 @@
+Preguntas: 
+
+a. ¿Quién inventó el sistema de control de versión Git y por qué? 
+b. ¿A quién pertenece actualmente GitHub y por qué? 
+c. ¿Hay otra forma que no sea la terminal para trabajar con GitHub?
+
+Respuestas: 
+
+a. Lo inventó Linus Torvalds y porque la herramienta BitKeeper dejó de ser ofrecida en 2005 de forma gratuita, conllevando a que L. Torvalds comenzó a desarrollar su propia herramienta, es decir Git, basándose en lo que aprendió mientras usaba BitKeeper. Asimismo, teniendo con Git los objetivos de que fuera veloz, tuviera un diseño sencillo, gran soporte para desarrollo no lineal, completamente distribuido y capaz de manejar grandes proyectos de manera eficiente. 
+
+b. Actualmente GitHub le pertenece a Microsoft (desde 2018) y porque es un servicio interesante y popular, además por creer que es una nueva forma para Microsoft de acercarse a la comunidad de personas desarrolladoras y por la creencia de que esta comunidad estará en el centro de los desafíos urgentes del mundo.
+
+c. Si hay otra forma que no sea la terminal. Por ejemplo desde una interfaz gráfica como GitHub Desktop, también GitKraken.
