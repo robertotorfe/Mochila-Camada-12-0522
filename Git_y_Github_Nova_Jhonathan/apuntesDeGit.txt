@@ -1,0 +1,21 @@
+COMANDOS DE GIT
+
+cd carpeta(entrar a una carpeta)
+cd .. (salir de una carpeta)
+cd ../.. (salir de varias carpetas)
+ls  (mostrar carpetas dentro de la ruta q estamos)
+mkdir carpeta (crear carpeta)
+open . (abre de manera grafica nuestra carpeta)
+git init (crear un repositorio)
+git status (ver el estado)
+git add (añade un cambio del directorio de trabajo en el entorno de ensayo)
+vim index.html (crea un archivo d texto)
+ git checkout -b Nova_Jhonathan ( se mueve a la rama, y si no existe la crea)
+touch archivo.txt (crea un archivo)
+
+
+
+
+
+El COMMIT es la palabra que utiliza Git para referirse a cada uno de los cambios q registramos en el repositorio.
+Untracked Quiere decir que Git sabe que se realizó un cambio pero NO se le ha dicho realmente que se registre ese cambio.
