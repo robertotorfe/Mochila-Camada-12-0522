@@ -1,0 +1,7 @@
+git init - crea repositorio local
+git status - indica como estan los archivos git
+git branch - crea una rama
+git checkout *nombre rama* - te posiciona en la rama
+git add . - agrega todos los archivos a git 
+git commit -m "nombre del cambio realizado" - genera un commit
+git push origin - sube los archivos a un repositorio remoto
