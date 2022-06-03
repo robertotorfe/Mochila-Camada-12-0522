@@ -1,0 +1,25 @@
+Crear
+
+git clone ssh://usuario@domain.com/repo.git // clonar un repositorio existente
+git init // crear un nuevo repositorio local
+git config user.name "nnombreUsuario" //  agrega nuestra identidad
+git config user.email "emailUsuario" // agrega nuestro email
+git remote add origin http://... // apunta al repositorio remoto 
+
+Subir cambios
+
+git add . // agrega todos los archivos
+git commit -m "mensaje" // commitea los cambios hechos
+git push origin master // envía los cambios al repositorio remoto
+git status // realiza un seguimiento de los estados de los archivos
+
+Otros:
+git pull // descarga los cambios que existen en el repositorio remoto
+git log // muestra el historial
+
+Ramas:
+git branch // lista las ramas
+git branch nuevaBranch_nombre // Crea una nueva rama
+git checkout nuevaBranch_nombre // Cambia a una rama existente
+git pull origin nuevaBranch_nombre // Trae los archivos de una rama existente
+git push origin nuevaBranch_nombre // Crea una rama remota con el mismo nombre 
