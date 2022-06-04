@@ -1,0 +1,14 @@
+Agregar carpeta o archivos, commitear y verificar
+1- $ git add "Nombre del archivo" para agregar un archivo o $ git add . para agregar todos los archivos
+2- $ git status Te dira el estados de los archivos 
+3- $ git commit -m "Mensaje" Comitea los archivos 
+4- $ git log Para ver el historial de nuestros Commits
+
+Crea un repositorio local
+1- $ git init
+
+Hacer uan nueva rama
+1- $ git branch
+
+Seleccionar una rama
+1- $ git checkout "rama" 
