@@ -2,3 +2,10 @@ a) Inventado por Linus Torvalds, buscando eficiencia, confiabilidad y compatibil
 b) Actualmente pertenece a Microsoft
 c) Si, la interfaz gráfica de GitHub
 
+COMANDO	DESCRIPCIÓN
+git init	Crear un repositorio local
+Git add .	Agregar todos los archivos
+Git status	Seguimiento de los estados de los archivos
+Git commit –m “mensaje”	Comitea los cambios realizados
+Git push origin main	Envía los cambios al repositorio remoto
+Git pull	Descargar cambios del repositorio remoto
