@@ -1,0 +1,12 @@
+Clonar repo existente: git clone (url de usuario en github)
+Crear repo local: git init
+Crear archivo: touch (nombre de archivo)
+Crear carpeta: mkdir (nombre de carpeta)
+Subir un nivel de carpeta: cd ..
+Cambiar de carpeta: cd (nombre de carpeta)
+Limpiar pantalla: clear
+Commitear cambios: git commit -m 'mensaje'
+Enviar al repo remoto: git push origin master
+Seguimiento de los archivos: git status
+Descarga los cambios que existen en el repo remoto: git pull
+
