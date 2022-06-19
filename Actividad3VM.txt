@@ -1,6 +1,7 @@
 Marcos Rey Camada 12, actividad Obligatoria 3 de Introducción a la Informática:
 1_¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos
 y en otros no?
+Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo.
 2_¿Qué tipo de máquina virtual es virtualBox?
 VirtualBox es una máquina virtual de tipo 2 ya que funciona sobre un sistema operativo anfitrión.
 3_Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
