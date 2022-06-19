@@ -1,0 +1,9 @@
+Marcos Rey Camada 12, actividad Obligatoria 3 de Introducción a la Informática:
+1_¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos
+y en otros no?
+2_¿Qué tipo de máquina virtual es virtualBox?
+VirtualBox es una máquina virtual de tipo 2 ya que funciona sobre un sistema operativo anfitrión.
+3_Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+No no afecta en nada a las demás porque son maquinas independientes. Es como si se rompiera la
+computadora de mi casa, ¿afectaría a la computadora de mi trabajo? Por supuesto que no.
