@@ -1,0 +1,19 @@
+Actividad UBUNTU
+
+¿Por qué un lenguaje de programación puede utilizarse en algunos sistemas operativos y en otros no?
+R:
+Porque los lenguajes de programación son compilados mediante un software compilador que los traduce a lenguaje de máquina (por ejemplo Assembler o ensamblador) y es entonces cuando el hardware puede interpretar esas instrucciones mediante el sistema operativo y ejecutarlas. Por lo general el lenguaje llamado ensamblador va considerar la arquitectura del procesador porque dependerá de esté componente para poder enviar los resultados de las operaciones y devolver la información necesaria al resto del ecosistema para que el sistema operativo devuelva lo que se le ha solicitado.
+
+¿Qué tipo de máquina virtual es virtualBox?.
+R:
+Es una maquina virtual que opera en el sistema del computador
+
+
+¿Qué función cumple un Hypervisor en la virtualización?
+R:
+Es un proceso que crea y ejecuta máquinas virtuales y permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento por ejemplo. Podemos encontrarnos dos tipos de hipervisores. En primer lugar los hipervisores de [tipo 1], llamados “hipervisores bare metal”, estos se ejecutan directamente en el hardware del host. Y en segundo lugar los hipervisores de [tipo 2], tambi[en llamados “alojados”, en este caso se ejecutan como una capa de software sobre un sistema operativo, como otros programas informáticos. 
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+R: No, las maquinas virtuales se ejecutan en el sistema operativo dentro del mismo servidor pero utilizan distintas capas, de este modo podr[ian estar corriendo en el mismo ordenador y su funcionamiento cont[inuo estar[a ligado a las prestaciones del hardware donde se est[e corriendo, puede fallar pero si los requerimientos del sistema o el factor de la falla son independientes, no afecta al resto de los procesos que estén ejecutando maquinas en simultaneo.
+
+
