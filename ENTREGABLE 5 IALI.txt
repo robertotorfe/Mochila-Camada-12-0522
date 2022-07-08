@@ -1,0 +1,29 @@
+ENTREGABLE 5 - Lucas Ausquiz IALI
+
+Puertos de cada aplicación:
+
+1) Zoom: 3478, 3479, 8801 - 8810
+2) Discord: 443, 45000-60000
+3) Meet: 3478
+4) Whatsapp: 80, 443, 4244, 5222, 5223, 5228, 5242
+5) MySQL: 3306
+6) Git: 9418
+7) SSL: 21
+8) HTTP: 80
+9) VirtualBox: 22, 443, 3389, 18083, and 49152-65534
+10) VPN: 1723 
+11) Outlook: 993
+12) FTP: 21
+13) Word: 80, 443
+14) Skype: 443, 80
+15) Epic Games: 80, 433, 443, 3478, 3479, 5060, 5062, 5222, 6250, 12000-65000
+16) Fifa 21: 3569, 8080, 9946, 9988, 10000-20000, 42124
+17) Spotify: 4070
+18) TeamViewer: 5938
+19) Netflix: 443
+
+Extra:
+
+20) AnyDesk: 80, 443, 6568
+21) Informix: 1526
+22) LiveServer (Visual Studio): 5501
