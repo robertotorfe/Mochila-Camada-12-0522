@@ -1,0 +1,60 @@
+Gama alta
+Procesador	amd ryzen 7 5800x
+Placa Madre		amd X570 CON USB 3.2
+Memoria principal ram 16gb ddr4 bus 3000
+Memoria secundaria Corsair mp600 force series 1tb ssd
+GPU NVIDIA GEFORCE RTX-3070 8GB G-DDR6
+
+Gama alta - AMD
+Procesador Amd Ryzen 7 3800xt
+Placa Madre	  msi mpg x570 gaming plus
+Memoria principal kingston hyperx fury ddr4 8gb
+Memoria secundaria disco duro m2 ssd 1tb sata BLUE 3 WD NAND
+GPU asus dual geforce rtx 2070 super evo
+
+Gama alta - Intel
+Procesador Core i7-10700
+Placa Madre Gigabyte Z590 AORUS PRO AX LGA 1200 ATX Motherboard
+Memoria principal MEMORIA PNY XLR8 DDR4 16GB 3200 MHz
+Memoria secundaria disco hdd western digital purple pro12tb sata
+GPU asus ROG strix geforce RTX 3080 t
+
+Gama media
+Procesador Intel Core i5-10600K
+Placa madre ASUS Prime H410M-E LGA1200
+Memoria principal patriot viper steel ddr4 8gb 3000mh
+Memoria secundaria HDD western digital red 3tb sata3  3.5
+GPU biostar GT730 4gb D3 HDMI VGA
+
+Gama media - AMD
+Procesador AMD ryzen 5 5600 3.7 ghz
+Placa madre A320M Asrock 
+Memoria principal corsail vengeance LPX DDR4 3200 PC4-25600 16GB 2X8GB
+Memoria secundaria samsung 980 ssd 1tb pcle 3.0 nvme m2 
+GPU MSI AMD RADEON RX 6600 MECH 2X 8GB GDDR6
+
+Gama media - Intel
+Procesador  i5-10400F
+Placa madre MSI MPG Z490 GAMING PLUS LGA 1200 ATX Motherboard
+Memoria principal PNY 16GB XLR8 Gaming DDR4 2666 MHz DIMM Desktop Memory Kit (2 X 8GB)
+Memoria secundaria HDD western digital red 3tb sata3  3.5
+
+GPU GeForce GT 1030 2GD4 LP OC
+
+Gama baja
+Procesador INTEL CORE I5-12400F 4.4 GHz
+Placa madre asus  TUF GAMING B660 PLUS WIFI D4
+Memoria principal KINGSTON FURY beast DDR4 2666 mhz 8gb cl16
+Memoria secundaria Nfortec Alcoyon x 256gb ssd m.2 NVME
+
+Gama baja - AMD
+Procesador Ryzen 3 2200g
+Placa madre AS ROCK b450 pro4
+Memoria ram ddr4 2133 (2*4gb)
+Memoria secundaria toshiba  mq01ABF050 500GB
+
+Gama baja - Intel
+Procesador Core i3 7100
+Placa madre ASROCK B365M
+Memoria principal RAM DDR4 8GB 2400mhz 1x
+Memoria secundaria western digital ssd 500gb

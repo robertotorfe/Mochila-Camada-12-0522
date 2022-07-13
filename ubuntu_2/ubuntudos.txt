@@ -1,0 +1,30 @@
+Introduccion a la Informatica
+Ejercitacion 
+En la mesa de trabajos realizamos la siguiente consigna en la maquina virtual creada: 
+
+Crear un archivo en Google Documents o Word en la computadora.
+ Investigar y contestar las siguientes preguntas. 
+
+�Que es un usuario root en   Linux? 
+El usuario root en GNU/Linux es el usuario que tiene acceso administrativo al sistema. Los usuarios normales no tienen este acceso por razones de seguridad. Sin embargo, Kubuntu no incluye el usuario root.
+�Por que ubuntu no me deja establecer la contraseña durante la instalacion? 
+Se supone que no debes añadir una contraseña para la cuenta de root. Tenemos algo llamado el mecanismo sudo para manejar eso. En su lugar, se añaden usuarios a la cuenta de administrador. Todos esos usuarios pueden entonces ejecutar comandos o programas como root ejecutando el comando sudo para comandos de terminal
+�Cuales son los procesos tipicos de Linux?
+Un proceso en linux es una serie de instrucciones que vienen de un programa que esta en ejecucion, existen diferentes elementos que incorpora un proceso como la prioridad de ejecución del proceso que le indica a Linux cuanto CPU utilizar y el tiempo maximo de ejecucion del proceso.:
+--Procesos Normales.
+Los procesos de tipo normal generalmente son lanzados en una terminal (tty) Y corren a nombre de un usuario. Osea, son los programas que utiliza el usuario generalmente y se encuentran conectados a una terminal. El programa aparecerá el pantalla y interactuara con el usuario
+--Procesos Daemon.
+�Que es un daemon en Linux?
+Un servicio, programa residente o daemon (terminologi�a de Unix, traducido erroneamente como demonios) es un tipo especial de programa que se ejecuta en segundo plano, en vez de ser controlado directamente por el usuario--Procesos 
+Zombie.
+En sistemas operativos Unix un proceso zombie es un proceso que ha completado su ejecución pero aún tiene una entrada en la tabla de procesos.
+
+�Como identificarlos?.  
+Puede listar los procesos en ejecución utilizando el comando ps (ps significa estado del proceso). El comando ps muestra los procesos en ejecución en tiempo real.   
+
+Investigar y establecer una contraseña para el usuario root.
+Para establecer una contraseña root se utiliza el comando “sudo passwd root”
+
+
+
+
