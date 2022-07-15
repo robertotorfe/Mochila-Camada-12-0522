@@ -1,0 +1,18 @@
+Crear un nuevo repositorio local
+$ git init 
+Agregar archivo 
+$ git add <nombre archivo>
+Agregar todos los archivos
+$ git add . 
+Crear commit 
+$ git commit -m "mensaje"
+Subir commit a repositorio remoto 
+$ git push origin <nombre rama>
+Crear nueva rama 
+$ git branch <nombre rama>
+Cambiar de rama
+$ git checkout <nombre rama>
+Clonar repositorio existente 
+$ git clone https://usuario@github.com/repo.git
+Actualizar repositorio ya clonado
+$ git pull https://usuario@github.com/repo.git
